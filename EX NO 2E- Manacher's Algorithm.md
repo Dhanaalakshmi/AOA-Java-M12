@@ -26,8 +26,8 @@ using Manacher's Algorithm
 ```
 /*
 Program to find the Longest Palindromic Substring using Manacher's Algorithm
-Developed by: KELVIN K
-Register Number: 212224040157
+Developed by: DHANALAKSHMI A
+Register Number: 212223040033
 */
 import java.util.Scanner;
 
